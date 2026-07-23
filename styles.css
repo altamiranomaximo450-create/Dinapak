@@ -681,6 +681,16 @@ h1, h2, h3, h4 { text-wrap: balance; line-height: 1.05; letter-spacing: -0.01em;
 .ai-chat-form button:hover { transform: scale(1.08); }
 .ai-chat-form button:disabled { opacity: 0.5; pointer-events: none; }
 
+.ai-chat-chips { display: flex; flex-wrap: wrap; gap: 0.45rem; margin-top: 0.2rem; }
+.ai-chat-chip {
+  font-family: var(--sans); font-size: 0.78rem; line-height: 1.3;
+  color: var(--cream); background: var(--bg-3);
+  border: 1px solid var(--line-strong); border-radius: 100px;
+  padding: 0.5em 0.9em; text-align: left;
+  transition: border-color .25s var(--ease-out), background .25s var(--ease-out);
+}
+.ai-chat-chip:hover { border-color: var(--amber); background: rgba(242,169,59,0.08); }
+
 .ai-chat-disclaimer { font-size: 0.68rem; color: var(--cream-faint); padding: 0 1.1rem 0.9rem; }
 .ai-chat-disclaimer a { color: var(--amber); }
 

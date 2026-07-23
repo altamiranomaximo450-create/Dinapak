@@ -7,6 +7,13 @@
     try { fn(); } catch (e) { if (window.console) console.warn("[" + name + "]", e); }
   }
 
+  // Normaliza texto: minúsculas y sin acentos, para comparar bien.
+  function norm(s) {
+    return String(s || "")
+      .toLowerCase()
+      .normalize("NFD").replace(/[̀-ͯ]/g, "");
+  }
+
   function initAiChat() {
     var root = $("[data-ai-chat]");
     var toggle = $("[data-ai-chat-toggle]");
@@ -16,9 +23,15 @@
     var input = $("[data-ai-chat-input]");
     if (!root || !toggle || !panel || !body || !form || !input) return;
 
-    var endpoint = (window.__DINAPAK__ || {}).aiChatEndpoint || "";
+    var data = window.__DINAPAK__ || {};
+    var endpoint = data.aiChatEndpoint || "";
+    var faq = Array.isArray(data.chatFaq) ? data.chatFaq : [];
+    var useServer = endpoint && endpoint.indexOf("TU-SUBDOMINIO") === -1;
     var history = [];
     var sending = false;
+
+    var FALLBACK =
+      "Para eso lo mejor es que hablemos directo: completá el formulario de presupuesto de esta página o escribinos por WhatsApp al (011) 4687-7629 y te respondemos a la brevedad. También puedo ayudarte con servicios, presupuestos, ubicación y horarios.";
 
     function open(state) {
       root.classList.toggle("is-open", state);
@@ -26,7 +39,6 @@
       panel.setAttribute("aria-hidden", state ? "false" : "true");
       if (state) setTimeout(function () { input.focus(); }, 300);
     }
-
     toggle.addEventListener("click", function () {
       open(!root.classList.contains("is-open"));
     });
@@ -49,25 +61,61 @@
       return el;
     }
 
-    form.addEventListener("submit", function (e) {
-      e.preventDefault();
-      if (sending) return;
-      var text = input.value.trim();
-      if (!text) return;
+    // Busca la mejor respuesta local según palabras clave.
+    function localAnswer(text) {
+      var q = norm(text);
+      var best = null, bestScore = 0;
+      faq.forEach(function (item) {
+        var score = 0;
+        (item.keywords || []).forEach(function (kw) {
+          if (q.indexOf(norm(kw)) !== -1) score += norm(kw).length; // frases largas pesan más
+        });
+        if (score > bestScore) { bestScore = score; best = item; }
+      });
+      return best ? best.a : FALLBACK;
+    }
 
-      if (!endpoint || endpoint.indexOf("TU-SUBDOMINIO") !== -1) {
-        addMsg(text, "user");
-        input.value = "";
-        addMsg("El asistente todavía no está conectado. Escribinos por WhatsApp o completá el formulario de presupuesto y te respondemos a la brevedad.", "bot");
+    // Muestra los botones de preguntas rápidas (chips).
+    function renderChips() {
+      var chips = faq.filter(function (f) { return f.chip; });
+      if (!chips.length) return;
+      var wrap = document.createElement("div");
+      wrap.className = "ai-chat-chips";
+      chips.forEach(function (item) {
+        var b = document.createElement("button");
+        b.type = "button";
+        b.className = "ai-chat-chip";
+        b.textContent = item.q;
+        b.addEventListener("click", function () {
+          wrap.remove();
+          handleUser(item.q, item.a);
+        });
+        wrap.appendChild(b);
+      });
+      body.appendChild(wrap);
+      body.scrollTop = body.scrollHeight;
+    }
+
+    // Procesa un mensaje del usuario. Si pasan "quickAnswer", la usa directo.
+    function handleUser(text, quickAnswer) {
+      addMsg(text, "user");
+
+      if (quickAnswer) {
+        var t1 = addTyping();
+        setTimeout(function () { t1.remove(); addMsg(quickAnswer, "bot"); }, 450);
         return;
       }
 
-      addMsg(text, "user");
+      if (!useServer) {
+        var t2 = addTyping();
+        setTimeout(function () { t2.remove(); addMsg(localAnswer(text), "bot"); }, 500);
+        return;
+      }
+
+      // Camino con servidor (Gemini) + respaldo local si falla.
       history.push({ role: "user", text: text });
-      input.value = "";
       sending = true;
       input.disabled = true;
-
       var typingEl = addTyping();
 
       fetch(endpoint, {
@@ -76,22 +124,34 @@
         body: JSON.stringify({ message: text, history: history.slice(0, -1) })
       })
         .then(function (r) { return r.json(); })
-        .then(function (data) {
+        .then(function (d) {
           typingEl.remove();
-          var reply = data.text || "No pude responder en este momento. Probá de nuevo o escribinos por WhatsApp.";
+          var reply = d && d.text ? d.text : localAnswer(text);
           addMsg(reply, "bot");
           history.push({ role: "assistant", text: reply });
         })
         .catch(function () {
           typingEl.remove();
-          addMsg("Hubo un problema de conexión. Probá de nuevo en un momento o escribinos por WhatsApp.", "bot");
+          addMsg(localAnswer(text), "bot");
         })
         .finally(function () {
           sending = false;
           input.disabled = false;
           input.focus();
         });
+    }
+
+    form.addEventListener("submit", function (e) {
+      e.preventDefault();
+      if (sending) return;
+      var text = input.value.trim();
+      if (!text) return;
+      input.value = "";
+      handleUser(text);
     });
+
+    // Al cargar: mostrar los botones de preguntas rápidas.
+    renderChips();
   }
 
   if (document.readyState === "loading") {
