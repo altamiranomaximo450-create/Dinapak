@@ -31,7 +31,7 @@
     var sending = false;
 
     var FALLBACK =
-      "Para eso lo mejor es que hablemos directo: completá el formulario de presupuesto de esta página o escribinos por WhatsApp al (011) 4687-7629 y te respondemos a la brevedad. También puedo ayudarte con servicios, presupuestos, ubicación y horarios.";
+      "Para eso lo mejor es que hablemos directo: completá el formulario de presupuesto de esta página o escribinos por WhatsApp al (011) 0000-0000 y te respondemos a la brevedad. También puedo ayudarte con servicios, presupuestos, ubicación y horarios.";
 
     function open(state) {
       root.classList.toggle("is-open", state);
