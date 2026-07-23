@@ -1,0 +1,11 @@
+# Fotos originales sin optimizar (no hace falta subirlas)
+assets/photos/source/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editores
+.vscode/
+.idea/

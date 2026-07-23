@@ -1,0 +1,222 @@
+{
+  "hero": {
+    "src": "assets/img/hero.jpg",
+    "title": "Zürich Am Sägertenbach 02",
+    "creator": "Balise42",
+    "creator_url": "https://commons.wikimedia.org/wiki/User:Balise42",
+    "license": "by",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=141203582",
+    "source": "wikimedia"
+  },
+  "obra-1": {
+    "src": "assets/img/obra-1.jpg",
+    "title": "Construction Career Days, May 12, 2010",
+    "creator": "MassDOT",
+    "creator_url": "https://www.flickr.com/photos/42009447@N05",
+    "license": "pdm",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/42009447@N05/4601318638",
+    "source": "flickr"
+  },
+  "obra-2": {
+    "src": "assets/img/obra-2.jpg",
+    "title": "Creek Bend Heights Apartments, Hamburg, New York - 20230308",
+    "creator": "Andre Carrotflower",
+    "creator_url": "https://commons.wikimedia.org/wiki/User:Andre_Carrotflower",
+    "license": "by-sa",
+    "license_version": "4.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "foreign_landing_url": "https://commons.wikimedia.org/w/index.php?curid=129492525",
+    "source": "wikimedia"
+  },
+  "obra-3": {
+    "src": "assets/img/obra-3.jpg",
+    "title": "2006.10 - 'A wood of reflecting scaffold tubes' - Amsterdam photos & pictures, a building-construction site of the new Municipal Library OBA at the Oosterdok area in Amsterdam; Dutch city + geotag, Fons Heijnsbroek, The Netherlands",
+    "creator": "Amsterdam free photos & pictures of the Dutch city",
+    "creator_url": "https://www.flickr.com/photos/104736837@N03",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/104736837@N03/27035387673",
+    "source": "flickr"
+  },
+  "proyecto": {
+    "src": "assets/img/proyecto.jpg",
+    "title": "Free construction site silhouette image",
+    "creator": "{\"result_count\":3,\"page_count\":1,\"page_size\":6,\"page\":1,\"results\":[{\"id\":\"128e934c-ee43-4f93-ba61-fb68d2b10150\",\"title\":\"Construction site\",\"indexed_on\":\"2024-03-29T01:59:00.599666Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/5912101/construction-site-free-public-domain-cc0-photo\",\"url\":\"https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3B4MTM0Mjg4OS1pbWFnZS1rd3Z3MWpzNy5qcGc.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":null,\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction site\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"crane building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"heavy equipment\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"heavy equipment construction silhouette\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"metal construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"singapore sunset\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"under construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"\\\"Construction site\\\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"description\",\"title\",\"tags.name\"],\"mature\":false,\"height\":3000,\"width\":4000,\"thumbnail\":\"https://api.openverse.org/v1/images/128e934c-ee43-4f93-ba61-fb68d2b10150/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/128e934c-ee43-4f93-ba61-fb68d2b10150/\",\"related_url\":\"https://api.openverse.org/v1/images/128e934c-ee43-4f93-ba61-fb68d2b10150/related/\",\"unstable__sensitivity\":[]},{\"id\":\"36a7704b-0de4-4188-8ac7-fa1c4992a559\",\"title\":\"Free construction site silhouette image\",\"indexed_on\":\"2024-03-29T01:59:00.599666Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/5913448/image-public-domain-construction-free\",\"url\":\"https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcHgxMTI5NDYwLWltYWdlLWt3dnc5ejI1LmpwZw.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":\"photograph\",\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"architecture\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction worker\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"crane building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"free\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"sunset\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"\\\"Free construction site silhouette image\\\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"description\",\"title\",\"tags.name\"],\"mature\":false,\"height\":1333,\"width\":2000,\"thumbnail\":\"https://api.openverse.org/v1/images/36a7704b-0de4-4188-8ac7-fa1c4992a559/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/36a7704b-0de4-4188-8ac7-fa1c4992a559/\",\"related_url\":\"https://api.openverse.org/v1/images/36a7704b-0de4-4188-8ac7-fa1c4992a559/related/\",\"unstable__sensitivity\":[]},{\"id\":\"0a082551-fd11-44fc-8362-8bb7a56c421e\",\"title\":null,\"indexed_on\":\"2024-03-29T01:59:00.599666Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/5940093/free-public-domain-cc0-photo\",\"url\":\"https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg5ODM3MTctaW1hZ2Uta3d5bnVra2kuanBn.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":null,\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"cloud\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction site\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"crane building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"plant\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"sky\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"sunset\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"work under sun\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"This work is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"tags.name\"],\"mature\":false,\"height\":3000,\"width\":4000,\"thumbnail\":\"https://api.openverse.org/v1/images/0a082551-fd11-44fc-8362-8bb7a56c421e/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/0a082551-fd11-44fc-8362-8bb7a56c421e/\",\"related_url\":\"https://api.openverse.org/v1/images/0a082551-fd11-44fc-8362-8bb7a56c421e/related/\",\"unstable__sensitivity\":[]}]}",
+    "creator_url": "{\"result_count\":3,\"page_count\":1,\"page_size\":6,\"page\":1,\"results\":[{\"id\":\"128e934c-ee43-4f93-ba61-fb68d2b10150\",\"title\":\"Construction site\",\"indexed_on\":\"2024-03-29T01:59:00.599666Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/5912101/construction-site-free-public-domain-cc0-photo\",\"url\":\"https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL3B4MTM0Mjg4OS1pbWFnZS1rd3Z3MWpzNy5qcGc.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":null,\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction site\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"crane building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"heavy equipment\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"heavy equipment construction silhouette\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"metal construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"singapore sunset\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"under construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"\\\"Construction site\\\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"description\",\"title\",\"tags.name\"],\"mature\":false,\"height\":3000,\"width\":4000,\"thumbnail\":\"https://api.openverse.org/v1/images/128e934c-ee43-4f93-ba61-fb68d2b10150/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/128e934c-ee43-4f93-ba61-fb68d2b10150/\",\"related_url\":\"https://api.openverse.org/v1/images/128e934c-ee43-4f93-ba61-fb68d2b10150/related/\",\"unstable__sensitivity\":[]},{\"id\":\"36a7704b-0de4-4188-8ac7-fa1c4992a559\",\"title\":\"Free construction site silhouette image\",\"indexed_on\":\"2024-03-29T01:59:00.599666Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/5913448/image-public-domain-construction-free\",\"url\":\"https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvcHgxMTI5NDYwLWltYWdlLWt3dnc5ejI1LmpwZw.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":\"photograph\",\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"architecture\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction worker\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"crane building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"free\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"sunset\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"\\\"Free construction site silhouette image\\\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"description\",\"title\",\"tags.name\"],\"mature\":false,\"height\":1333,\"width\":2000,\"thumbnail\":\"https://api.openverse.org/v1/images/36a7704b-0de4-4188-8ac7-fa1c4992a559/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/36a7704b-0de4-4188-8ac7-fa1c4992a559/\",\"related_url\":\"https://api.openverse.org/v1/images/36a7704b-0de4-4188-8ac7-fa1c4992a559/related/\",\"unstable__sensitivity\":[]},{\"id\":\"0a082551-fd11-44fc-8362-8bb7a56c421e\",\"title\":null,\"indexed_on\":\"2024-03-29T01:59:00.599666Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/5940093/free-public-domain-cc0-photo\",\"url\":\"https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcHg5ODM3MTctaW1hZ2Uta3d5bnVra2kuanBn.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":null,\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"cloud\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction site\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"crane building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"plant\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"sky\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"sunset\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"work under sun\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"This work is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"tags.name\"],\"mature\":false,\"height\":3000,\"width\":4000,\"thumbnail\":\"https://api.openverse.org/v1/images/0a082551-fd11-44fc-8362-8bb7a56c421e/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/0a082551-fd11-44fc-8362-8bb7a56c421e/\",\"related_url\":\"https://api.openverse.org/v1/images/0a082551-fd11-44fc-8362-8bb7a56c421e/related/\",\"unstable__sensitivity\":[]}]}",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://www.rawpixel.com/image/5940093/free-public-domain-cc0-photo",
+    "source": "rawpixel"
+  },
+  "g-obra-curso": {
+    "src": "assets/img/g-obra-curso.jpg",
+    "title": "A factory fit for the future",
+    "creator": "DFID - UK Department for International Development",
+    "creator_url": "https://www.flickr.com/photos/14214150@N02",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/14214150@N02/8756741567",
+    "source": "flickr"
+  },
+  "g-materiales": {
+    "src": "assets/img/g-materiales.jpg",
+    "title": "2013.06 - 'Street still-life of piles of reinforcement bars', in concrete and iron struts at the metro construction Vijzelgracht in Amsterdam; urban photography in the Netherlands, Fons Heijnsbroek",
+    "creator": "Amsterdam free photos & pictures of the Dutch city",
+    "creator_url": "https://www.flickr.com/photos/104736837@N03",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/104736837@N03/10351027425",
+    "source": "flickr"
+  },
+  "g-fachada": {
+    "src": "assets/img/g-fachada.jpg",
+    "title": "Modern building facade",
+    "creator": "{\"result_count\":240,\"page_count\":40,\"page_size\":6,\"page\":1,\"results\":[{\"id\":\"97d93b4f-b8d4-453f-845a-531872caa448\",\"title\":\"Modern building facade\",\"indexed_on\":\"2022-11-01T00:40:37.771722Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/6036968/photo-image-public-domain-construction-free\",\"url\":\"https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJoYW1idXJnX2VsYmVfcGhpbGhhcm1vbmljX2hhbGxfNC1pbWFnZS1reWJkanF1dS5qcGc.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":null,\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"architecture photos\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"building construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"building photo\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"facade\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"madrid\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"modern architecture\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"modern house\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"\\\"Modern building facade\\\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"description\",\"title\",\"tags.name\"],\"mature\":false,\"height\":3264,\"width\":4928,\"thumbnail\":\"https://api.openverse.org/v1/images/97d93b4f-b8d4-453f-845a-531872caa448/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/97d93b4f-b8d4-453f-845a-531872caa448/\",\"related_url\":\"https://api.openverse.org/v1/images/97d93b4f-b8d4-453f-845a-531872caa448/related/\",\"unstable__sensitivity\":[]},{\"id\":\"f1ef2440-9196-4070-bf03-db45ea9c1be0\",\"title\":\"Modern building facade\",\"indexed_on\":\"2022-11-01T00:40:37.771722Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/6040183/photo-image-public-domain-construction-free\",\"url\":\"https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL2ZyYnVpbGRpbmdfYXJjaGl0ZWN0dXJlX2hvbWVfMTU0Njc0OC1pbWFnZS1reWJlMzd5Mi5qcGc.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":\"photograph\",\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"architecture madrid\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"background\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"building facade\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"madrid\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"madrid building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"modern architecture\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"\\\"Modern building facade\\\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"description\",\"title\",\"tags.name\"],\"mature\":false,\"height\":3168,\"width\":4752,\"thumbnail\":\"https://api.openverse.org/v1/images/f1ef2440-9196-4070-bf03-db45ea9c1be0/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/f1ef2440-9196-4070-bf03-db45ea9c1be0/\",\"related_url\":\"https://api.openverse.org/v1/images/f1ef2440-9196-4070-bf03-db45ea9c1be0/related/\",\"unstable__sensitivity\":[]},{\"id\":\"6791f7ee-5da8-4c2a-b4cc-b24dc360d5ad\",\"title\":\"Modern building facade\",\"indexed_on\":\"2022-11-01T00:40:37.771722Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/6041742/photo-image-public-domain-wall-free\",\"url\":\"https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJhcmNoaXRlY3R1cmVfZmFjYWRlX2JhbGNvbmllc191cmJhbi1pbWFnZS1reWJlZHZjYS5qcGc.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":\"photograph\",\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"apartment building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"architecture photos\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"business\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"cbd\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"facade\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"facade building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"flat office building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"flats\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"\\\"Modern building facade\\\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"description\",\"title\",\"tags.name\"],\"mature\":false,\"height\":3665,\"width\":5557,\"thumbnail\":\"https://api.openverse.org/v1/images/6791f7ee-5da8-4c2a-b4cc-b24dc360d5ad/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/6791f7ee-5da8-4c2a-b4cc-b24dc360d5ad/\",\"related_url\":\"https://api.openverse.org/v1/images/6791f7ee-5da8-4c2a-b4cc-b24dc360d5ad/related/\",\"unstable__sensitivity\":[]},{\"id\":\"d4774a9f-034b-4ec1-80ec-214670e482d2\",\"title\":\"Modern building facade\",\"indexed_on\":\"2022-11-01T00:40:37.771722Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/6035777/photo-image-public-domain-construction-free\",\"url\":\"https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJrcmFuaGF1c19kZXRhaWxfdmlld19kZXRhaWxzLWltYWdlLWt5YmRkNWYwLmpwZw.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":\"photograph\",\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"city\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"high rise\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"house construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"house modern\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"house skyscraper\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"madrid\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"office facade\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"\\\"Modern building facade\\\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"description\",\"title\",\"tags.name\"],\"mature\":false,\"height\":2798,\"width\":4000,\"thumbnail\":\"https://api.openverse.org/v1/images/d4774a9f-034b-4ec1-80ec-214670e482d2/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/d4774a9f-034b-4ec1-80ec-214670e482d2/\",\"related_url\":\"https://api.openverse.org/v1/images/d4774a9f-034b-4ec1-80ec-214670e482d2/related/\",\"unstable__sensitivity\":[]},{\"id\":\"8ad25eee-4160-49d6-8fcc-a7036d05cf94\",\"title\":\"Modern building facade\",\"indexed_on\":\"2022-11-01T00:40:37.771722Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/6034716/photo-image-public-domain-construction-free\",\"url\":\"https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJtZ184NDk5LWltYWdlLWt5YmQ2ZHJiLmpwZw.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":\"photograph\",\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"background\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"city\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"facade\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"madrid\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"office building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"\\\"Modern building facade\\\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"description\",\"title\",\"tags.name\"],\"mature\":false,\"height\":3448,\"width\":5218,\"thumbnail\":\"https://api.openverse.org/v1/images/8ad25eee-4160-49d6-8fcc-a7036d05cf94/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/8ad25eee-4160-49d6-8fcc-a7036d05cf94/\",\"related_url\":\"https://api.openverse.org/v1/images/8ad25eee-4160-49d6-8fcc-a7036d05cf94/related/\",\"unstable__sensitivity\":[]},{\"id\":\"d4d95030-e37d-4b75-af42-ada50fcae591\",\"title\":\"Modern building facade\",\"indexed_on\":\"2022-11-01T00:40:37.771722Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/6042013/photo-image-public-domain-home-free\",\"url\":\"https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJhcmNoaXRlY3R1cmVfZmFjYWRlX2NpdHlfaG9tZS1pbWFnZS1reWJlZGk5Yy5qcGc.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":null,\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"background\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"glass building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"glass facade\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"office\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"pattern\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"sky\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"\\\"Modern building facade\\\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"description\",\"title\",\"tags.name\"],\"mature\":false,\"height\":2848,\"width\":4288,\"thumbnail\":\"https://api.openverse.org/v1/images/d4d95030-e37d-4b75-af42-ada50fcae591/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/d4d95030-e37d-4b75-af42-ada50fcae591/\",\"related_url\":\"https://api.openverse.org/v1/images/d4d95030-e37d-4b75-af42-ada50fcae591/related/\",\"unstable__sensitivity\":[]}]}",
+    "creator_url": "{\"result_count\":240,\"page_count\":40,\"page_size\":6,\"page\":1,\"results\":[{\"id\":\"97d93b4f-b8d4-453f-845a-531872caa448\",\"title\":\"Modern building facade\",\"indexed_on\":\"2022-11-01T00:40:37.771722Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/6036968/photo-image-public-domain-construction-free\",\"url\":\"https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJoYW1idXJnX2VsYmVfcGhpbGhhcm1vbmljX2hhbGxfNC1pbWFnZS1reWJkanF1dS5qcGc.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":null,\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"architecture photos\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"building construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"building photo\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"facade\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"madrid\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"modern architecture\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"modern house\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"\\\"Modern building facade\\\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"description\",\"title\",\"tags.name\"],\"mature\":false,\"height\":3264,\"width\":4928,\"thumbnail\":\"https://api.openverse.org/v1/images/97d93b4f-b8d4-453f-845a-531872caa448/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/97d93b4f-b8d4-453f-845a-531872caa448/\",\"related_url\":\"https://api.openverse.org/v1/images/97d93b4f-b8d4-453f-845a-531872caa448/related/\",\"unstable__sensitivity\":[]},{\"id\":\"f1ef2440-9196-4070-bf03-db45ea9c1be0\",\"title\":\"Modern building facade\",\"indexed_on\":\"2022-11-01T00:40:37.771722Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/6040183/photo-image-public-domain-construction-free\",\"url\":\"https://images.rawpixel.com/editor_1024/cHJpdmF0ZS9zdGF0aWMvaW1hZ2Uvd2Vic2l0ZS8yMDIyLTA0L2xyL2ZyYnVpbGRpbmdfYXJjaGl0ZWN0dXJlX2hvbWVfMTU0Njc0OC1pbWFnZS1reWJlMzd5Mi5qcGc.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":\"photograph\",\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"architecture madrid\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"background\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"building facade\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"madrid\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"madrid building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"modern architecture\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"\\\"Modern building facade\\\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"description\",\"title\",\"tags.name\"],\"mature\":false,\"height\":3168,\"width\":4752,\"thumbnail\":\"https://api.openverse.org/v1/images/f1ef2440-9196-4070-bf03-db45ea9c1be0/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/f1ef2440-9196-4070-bf03-db45ea9c1be0/\",\"related_url\":\"https://api.openverse.org/v1/images/f1ef2440-9196-4070-bf03-db45ea9c1be0/related/\",\"unstable__sensitivity\":[]},{\"id\":\"6791f7ee-5da8-4c2a-b4cc-b24dc360d5ad\",\"title\":\"Modern building facade\",\"indexed_on\":\"2022-11-01T00:40:37.771722Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/6041742/photo-image-public-domain-wall-free\",\"url\":\"https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJhcmNoaXRlY3R1cmVfZmFjYWRlX2JhbGNvbmllc191cmJhbi1pbWFnZS1reWJlZHZjYS5qcGc.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":\"photograph\",\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"apartment building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"architecture photos\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"business\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"cbd\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"facade\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"facade building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"flat office building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"flats\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"\\\"Modern building facade\\\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"description\",\"title\",\"tags.name\"],\"mature\":false,\"height\":3665,\"width\":5557,\"thumbnail\":\"https://api.openverse.org/v1/images/6791f7ee-5da8-4c2a-b4cc-b24dc360d5ad/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/6791f7ee-5da8-4c2a-b4cc-b24dc360d5ad/\",\"related_url\":\"https://api.openverse.org/v1/images/6791f7ee-5da8-4c2a-b4cc-b24dc360d5ad/related/\",\"unstable__sensitivity\":[]},{\"id\":\"d4774a9f-034b-4ec1-80ec-214670e482d2\",\"title\":\"Modern building facade\",\"indexed_on\":\"2022-11-01T00:40:37.771722Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/6035777/photo-image-public-domain-construction-free\",\"url\":\"https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJrcmFuaGF1c19kZXRhaWxfdmlld19kZXRhaWxzLWltYWdlLWt5YmRkNWYwLmpwZw.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":\"photograph\",\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"city\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"high rise\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"house construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"house modern\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"house skyscraper\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"madrid\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"office facade\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"\\\"Modern building facade\\\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"description\",\"title\",\"tags.name\"],\"mature\":false,\"height\":2798,\"width\":4000,\"thumbnail\":\"https://api.openverse.org/v1/images/d4774a9f-034b-4ec1-80ec-214670e482d2/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/d4774a9f-034b-4ec1-80ec-214670e482d2/\",\"related_url\":\"https://api.openverse.org/v1/images/d4774a9f-034b-4ec1-80ec-214670e482d2/related/\",\"unstable__sensitivity\":[]},{\"id\":\"8ad25eee-4160-49d6-8fcc-a7036d05cf94\",\"title\":\"Modern building facade\",\"indexed_on\":\"2022-11-01T00:40:37.771722Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/6034716/photo-image-public-domain-construction-free\",\"url\":\"https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJtZ184NDk5LWltYWdlLWt5YmQ2ZHJiLmpwZw.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":\"photograph\",\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"background\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"city\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"construction\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"facade\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"madrid\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"office building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"\\\"Modern building facade\\\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"description\",\"title\",\"tags.name\"],\"mature\":false,\"height\":3448,\"width\":5218,\"thumbnail\":\"https://api.openverse.org/v1/images/8ad25eee-4160-49d6-8fcc-a7036d05cf94/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/8ad25eee-4160-49d6-8fcc-a7036d05cf94/\",\"related_url\":\"https://api.openverse.org/v1/images/8ad25eee-4160-49d6-8fcc-a7036d05cf94/related/\",\"unstable__sensitivity\":[]},{\"id\":\"d4d95030-e37d-4b75-af42-ada50fcae591\",\"title\":\"Modern building facade\",\"indexed_on\":\"2022-11-01T00:40:37.771722Z\",\"foreign_landing_url\":\"https://www.rawpixel.com/image/6042013/photo-image-public-domain-home-free\",\"url\":\"https://images.rawpixel.com/editor_1024/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZnJhcmNoaXRlY3R1cmVfZmFjYWRlX2NpdHlfaG9tZS1pbWFnZS1reWJlZGk5Yy5qcGc.jpg\",\"creator\":null,\"creator_url\":null,\"license\":\"cc0\",\"license_version\":\"1.0\",\"license_url\":\"https://creativecommons.org/publicdomain/zero/1.0/\",\"provider\":\"rawpixel\",\"source\":\"rawpixel\",\"category\":null,\"filesize\":null,\"filetype\":\"jpg\",\"tags\":[{\"name\":\"background\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"glass building\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"glass facade\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"office\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"pattern\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"},{\"name\":\"sky\",\"accuracy\":null,\"unstable__provider\":\"rawpixel\"}],\"attribution\":\"\\\"Modern building facade\\\" is marked with CC0 1.0. To view the terms, visit https://creativecommons.org/publicdomain/zero/1.0/.\",\"fields_matched\":[\"description\",\"title\",\"tags.name\"],\"mature\":false,\"height\":2848,\"width\":4288,\"thumbnail\":\"https://api.openverse.org/v1/images/d4d95030-e37d-4b75-af42-ada50fcae591/thumb/\",\"detail_url\":\"https://api.openverse.org/v1/images/d4d95030-e37d-4b75-af42-ada50fcae591/\",\"related_url\":\"https://api.openverse.org/v1/images/d4d95030-e37d-4b75-af42-ada50fcae591/related/\",\"unstable__sensitivity\":[]}]}",
+    "license": "cc0",
+    "license_version": "1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "foreign_landing_url": "https://www.rawpixel.com/image/6042013/photo-image-public-domain-home-free",
+    "source": "rawpixel"
+  },
+  "g-herramientas": {
+    "src": "assets/img/g-herramientas.jpg",
+    "title": "Grand Canyon National Park: Bright Angel Trailhead Rehabilitation 3073",
+    "creator": "Grand Canyon NPS",
+    "creator_url": "https://www.flickr.com/photos/50693818@N08",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/50693818@N08/8540250900",
+    "source": "flickr"
+  },
+  "g-cielorraso": {
+    "src": "assets/img/g-cielorraso.jpg",
+    "title": "SWiT.6",
+    "creator": "iEEEj",
+    "creator_url": "https://www.flickr.com/photos/45233382@N06",
+    "license": "by-sa",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/45233382@N06/4595692737",
+    "source": "flickr"
+  },
+  "g-electrica": {
+    "src": "assets/img/g-electrica.jpg",
+    "title": "Solar panels on a roof - Northfield",
+    "creator": "ell brown",
+    "creator_url": "https://www.flickr.com/photos/39415781@N06",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/39415781@N06/6949115457",
+    "source": "flickr"
+  },
+  "g-durlock": {
+    "src": "assets/img/g-durlock.jpg",
+    "title": "Kaiserslautern High School",
+    "creator": "USACE Europe District",
+    "creator_url": "https://www.flickr.com/photos/34728058@N08",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/34728058@N08/33300470582",
+    "source": "flickr"
+  },
+  "g-estructura": {
+    "src": "assets/img/g-estructura.jpg",
+    "title": "Strung Out Art: Calatrava Bridge",
+    "creator": "GollyGforce - Living My Worst Nightmare",
+    "creator_url": "https://www.flickr.com/photos/20581458@N00",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/20581458@N00/14620949840",
+    "source": "flickr"
+  },
+  "g-cuadrilla": {
+    "src": "assets/img/g-cuadrilla.jpg",
+    "title": "MTACC Update 2012-12 Photo 7",
+    "creator": "MTAPhotos",
+    "creator_url": "https://www.flickr.com/photos/61135621@N03",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/61135621@N03/8310993908",
+    "source": "flickr"
+  },
+  "g-terminacion": {
+    "src": "assets/img/g-terminacion.jpg",
+    "title": "Sustainable Kitchen - Recycled Wood Flooring and Ceiling",
+    "creator": "Jeremy Levine Design",
+    "creator_url": "https://www.flickr.com/photos/25186605@N04",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/25186605@N04/17336540631",
+    "source": "flickr"
+  },
+  "g-edificio": {
+    "src": "assets/img/g-edificio.jpg",
+    "title": "The Old Crown, Digbeth - Beer garden / carpark - crown",
+    "creator": "ell brown",
+    "creator_url": "https://www.flickr.com/photos/39415781@N06",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/39415781@N06/4001448950",
+    "source": "flickr"
+  },
+  "g-ventanas": {
+    "src": "assets/img/g-ventanas.jpg",
+    "title": "St Augustine, Canford Magna, Dorset",
+    "creator": "JackPeasePhotography",
+    "creator_url": "https://www.flickr.com/photos/76253421@N04",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/76253421@N04/14776302171",
+    "source": "flickr"
+  },
+  "g-mamposteria": {
+    "src": "assets/img/g-mamposteria.jpg",
+    "title": "hole in the wall",
+    "creator": "jasleen_kaur",
+    "creator_url": "https://www.flickr.com/photos/25384802@N08",
+    "license": "by-sa",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by-sa/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/25384802@N08/6721038137",
+    "source": "flickr"
+  },
+  "g-exterior": {
+    "src": "assets/img/g-exterior.jpg",
+    "title": "Notre Dame de Paris - France",
+    "creator": "Arch_Sam",
+    "creator_url": "https://www.flickr.com/photos/132084522@N05",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/132084522@N05/17289800741",
+    "source": "flickr"
+  },
+  "g-plano": {
+    "src": "assets/img/g-plano.jpg",
+    "title": "North Berkeley Station, Section (1967)",
+    "creator": "Eric Fischer",
+    "creator_url": "https://www.flickr.com/photos/24431382@N03",
+    "license": "by",
+    "license_version": "2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0/",
+    "foreign_landing_url": "https://www.flickr.com/photos/24431382@N03/6074881626",
+    "source": "flickr"
+  }
+}
